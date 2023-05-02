@@ -10,3 +10,5 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 Imports: deldir
+URL: https://github.com/dmurdoch/testpkg
+BugReports: https://github.com/dmurdoch/testpkg/issues
