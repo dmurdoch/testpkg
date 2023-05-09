@@ -10,10 +10,10 @@ A description
 }
 \usage{
 levels.no(xx, ...)
-f()
+f(x)
 }
 \arguments{
-  \item{xx}{
+  \item{x, xx}{
 arg 1
 }
   \item{\dots}{
@@ -24,5 +24,5 @@ others
 x <- structure(1, class = "no")
 levels(x)
 f
-f()
+f(x)
 }
